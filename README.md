@@ -35,11 +35,11 @@ In sum, there is a significant difference between the coils produced at lot3 and
 
 ## Study Design: MechaCar vs Competition
 
-In this study, we will quantify how the MechaCar performs against the competition. Metrics like cost, hoursemaintenance cost, safety rating and city highway fuel efficiency will be used in this study. 
+In this study, we will quantify how the AutosRUs performs against the competition. Metrics like cost, hoursemaintenance cost, safety rating and city highway fuel efficiency will be used in this study. 
 
 ### Marketshare and Product Features
 
-We will study  AutosRUs and its competitors' makert shares and product features to find out the relationship between the customer preferences and the product feature. 
+We will study AutosRUs and its competitors' makert shares and product features to find out the relationship between the customer preferences and the product feature. 
 
 
 
