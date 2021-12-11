@@ -35,11 +35,18 @@ In sum, there is a significant difference between the coils produced at lot3 and
 
 ## Study Design: MechaCar vs Competition
 
-In this study, we will quantify how the AutosRUs performs against the competition. Metrics like cost, hoursemaintenance cost, safety rating and city highway fuel efficiency will be used in this study. 
+In this study, we will quantify how the MechaCar performs against the competition. Metrics like cost, hoursemaintenance cost, safety rating and city highway fuel efficiency will be considered in this study. 
 
-### Marketshare and Product Features
+### Two-Sample t-Test 
 
-We will study AutosRUs and its competitors' makert shares and product features to find out the relationship between the customer preferences and the product feature. 
+The two-sample t-test will be performed on the each metrics listed above. 
+
+For example, the two-sample t-test will be performed on the hoursemaintenance cost of MechaCar and vehicles from other manufacturers to see if the average hoursemaintenance cost for MechaCar is lower than the vehicles from other manufacturers. The hoursemaintenance costs data of the vehicles from other manufacturers could be obtained through surveys. The selected vehicles from other manufactures should be in the same class as MechaCar. 
+
+Null Hypothesis: The average hoursemaintenance cost of MechaCar is the same as the average hoursemaintenance cost of the vehicles from other manufacturers.  
+Alternate Hypothesis 1: The average hoursemaintenance cost of MechaCar is higher than the average hoursemaintenance cost of the vehicles from other manufacturers.  
+Alternate Hypothesis 2: The average hoursemaintenance  cost of MechaCar is lower than the average hoursemaintenance cost of the vehicles from other manufacturers. 
+
 
 
 
