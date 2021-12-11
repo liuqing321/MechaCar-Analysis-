@@ -1,7 +1,5 @@
 # MechaCar-Analysis-
 
-## Study Design: MechaCar vs Competition
-
 ### Liner Regression Analysis 
 
 Below is the result of multiple liner analysis, 
@@ -33,6 +31,20 @@ In this test, the null hypothesis is that the mean of the is PSI is 1500.
 When it comes to the p-values, we can see that the p-value for the entire dataset is above 0.05. The result suggests that the null hypothesis was not rejected. Plus, the p-values for lot1 data and lot2 data are above 0.05. Thus, the mean value of PSI in lot1 and the mean value of PSI in lot2 are 1500. However, the P-value of lot3 is below 0.05. The mean of PSI in lot3 is not equal to 1500. 
 
 In sum, there is a significant difference between the coils produced at lot3 and the population mean of 1500. 
+
+
+## Study Design: MechaCar vs Competition
+
+In this study, we will quantify how the MechaCar performs against the competition. Metrics like cost, hoursemaintenance cost, safety rating and city highway fuel efficiency will be used in this study. 
+
+### Marketshare and Product Features
+
+We will study  AutosRUs and its competitors' makert shares and product features to find out the relationship between the customer preferences and the product feature. 
+
+
+
+
+
 
 
 
